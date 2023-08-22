@@ -105,7 +105,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Jaehoon Yoo"
-  # avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "성균관대학교 수학과 유재훈"
   location         : "Suwon"
   email            : "jhyoomath@gmail.com"
