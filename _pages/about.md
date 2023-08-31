@@ -65,7 +65,7 @@ Top 30% Academic Scholarship, February 2022 - June 2022
 Korea Student Aid Foundation, March 2022 - December 2023
 
 ##### University Students Contest of Mathematics
-Silver Medal($2^{\text{n/d}}$ place), December 2022
+Silver Medal($2^{\text{nd}}$ place), December 2022
 
 
 <h2 style="color:#1867db/">Position & Responsibility</h2>
