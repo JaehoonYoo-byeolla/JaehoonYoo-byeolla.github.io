@@ -42,12 +42,12 @@ under the supervision of professor Youngjoon Hong and professor Woocheol Choi<br
 under the supervision of/ professor Seungwon Kim<br>
 - The Number of Genus in The Turaev Surface and Seifert Surface of Positive Knots
 
-<h2 style="color:#1867db">Talk</h2>
+<h2 style="color:#1867db">Talk(in Korean)</h2>
 
-1. [Parallel Postulate and Non-Euclidean Geometry, MIMIC seminar, SKKU, March 13, 2023](https://youtu.be/GT07SxAlAYw)
-2. [Jones Polynomial, MIMIC seminar, SKKU, May 28, 2023](https://youtu.be/HrZX18lCr-Y)
-3. Khovanov Homology,  M/IMIC seminar, SKKU, March 13, 2023 Expected
-4. Numerical Simulation with Schrödinger equation using Finite Difference Method, Ajou University, March 13, 2023 Expected
+1. Parallel Postulate and Non-Euclidean Geometry, MIMIC seminar, SKKU, March 13, 2023, [Youtube](https://youtu.be/GT07SxAlAYw), [PDF](../talk%20pdf/non-Euclidean.pdf)
+2. Jones Polynomial, MIMIC seminar, SKKU, May 28, 2023, [Youtube](https://youtu.be/HrZX18lCr-Y), [PDF](../talk%20pdf/Jones_Polynomial.pdf)
+3. Numerical Simulation with Schrödinger equation using Finite Difference Method, Ajou University, March 13, 2023, [PDF](../talk%20pdf/Ajou%20talk.pdf)
+3. Khovanov Homology, MIMIC seminar, SKKU, March 13, 2023 Expected
 
 <h2 style="color:#1867db">Honors & Awards</h2>
 
