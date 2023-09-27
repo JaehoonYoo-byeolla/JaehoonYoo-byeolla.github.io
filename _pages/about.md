@@ -46,8 +46,8 @@ under the supervision of/ professor Seungwon Kim<br>
 
 1. Parallel Postulate and Non-Euclidean Geometry, MIMIC seminar, SKKU, March 13, 2023, [Youtube](https://youtu.be/GT07SxAlAYw), [PDF](../talk%20pdf/non-Euclidean.pdf)
 2. Jones Polynomial, MIMIC seminar, SKKU, May 28, 2023, [Youtube](https://youtu.be/HrZX18lCr-Y), [PDF](../talk%20pdf/Jones_Polynomial.pdf)
-3. Numerical Simulation with Schrödinger equation using Finite Difference Method, Ajou University, March 13, 2023, [PDF](../talk%20pdf/Ajou%20talk.pdf)
-3. Khovanov Homology, MIMIC seminar, SKKU, March 13, 2023 Expected
+3. Numerical Simulation with Schrödinger equation using Finite Difference Method, Ajou University, September 21, 2023, [PDF](../talk%20pdf/Ajou%20talk.pdf)
+3. Curve Shortening Flow, MIMIC seminar, SKKU, September 26, 2023 [PDF](../talk%20pd/Curve_Shortening_Flow.pdf)
 
 <h2 style="color:#1867db">Honors & Awards</h2>
 
