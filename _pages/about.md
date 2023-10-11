@@ -77,9 +77,9 @@ Silver Medal($2^{\text{nd}}$ place), December 2022
 
 <h2 style="color:#1867db">Teaching Experiences</h2>
 - Introduction to Geometry, SKKU, September 2023 - December 2023
-- Differential Geometry I, SKKU, March - June 2023
-- Abstract Algebra I, SKKU, June 2022 - August 2022
-- Calculus I & II, SKKU, 2021
+- Differential Geometry 1, SKKU, March - June 2023
+- Abstract Algebra 1, SKKU, June 2022 - August 2022
+- Calculus 1 & 2, SKKU, 2021
 
 <h2 style="color:#1867db">Position & Responsibility</h2>
 Leader of SKKU Math Club, MIMIC, February 2022 - February 2024
