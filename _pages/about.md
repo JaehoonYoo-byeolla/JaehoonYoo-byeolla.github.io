@@ -13,25 +13,23 @@ I am a senior undergraduate student in Department of Mathematics at Sungkyunkwan
 
 <h2 style="color:#1867db">Research Interest</h2>
 
+#### Topology
+- Low-Dimensional Topology & Knot Theory
+
 #### Differential Geometry
 - Geometric Analysis
 - Minimal Surface of Schwarzschild submanifolds
-- Discrete Differential Geometry
 
-#### Topology
-- Low-Dimensional Topology & Knot Theory
-- Gauge Theory
-
-#### Partial Differential Eqaution
-- Numerical PDE
-- Hyperbolic PDE
+#### Mathematical Physics
+- Gauge theory
+- Penrose inequlaity
 
 ### Relevant Coursework
 - Differential Geometry, Riemannian Geometry
-- Low-Dimensional Topolo/gy, Algebraic Topology
-- Numerical PDE, Advanced PDE
+- Low-Dimensional Topololgy, Algebraic Topology
+- Advanced PDE, Geometric PDE
 
-<h2 style="color:#1867db">Experiences</h2>
+<h2 style="color:#1867db">Research Experiences</h2>
 
 
 ##### Undergraduate Research Program(Optimization), SKKU, January 2022 - December 2022
@@ -41,8 +39,10 @@ under the supervision of professor Youngjoon Hong and professor Woocheol Choi<br
 ##### Undergraduate Research Program(Low-Dimensional Topology & Knot Theory), SKKU, January 2023 - December 2023
 under the supervision of/ professor Seungwon Kim<br>
 - The Number of Genus in The Turaev Surface and Seifert Surface of Positive Knots
+- Khovanov Homology
+- Slice-Ribbon Conjecture
 
-<h2 style="color:#1867db">Talk(in Korean)</h2>
+<h2 style="color:#1867db">Undergraduate Talk(in Korean)</h2>
 
 1. Parallel Postulate and Non-Euclidean Geometry, MIMIC seminar, SKKU, March 13, 2023, [Youtube](https://youtu.be/GT07SxAlAYw), [PDF](../talk_pdf/non-Euclidean.pdf)
 2. Jones Polynomial, MIMIC seminar, SKKU, May 28, 2023, [Youtube](https://youtu.be/HrZX18lCr-Y), [PDF](../talk_pdf/Jones_Polynomial.pdf)
@@ -62,24 +62,24 @@ Top 30% Academic Scholarship, February 2022 - June 2022
 - $2000, August 2023
 
 ##### National Science and Engineering Scholarship, 
-Korea Student Aid Foundation, March 2022 - December 2023
+Ministry of Science and ICT (Korea), March 2022 - December 2023
 
 ##### University Students Contest of Mathematics
 Silver Medal($2^{\text{nd}}$ place), December 2022
 
-
-<h2 style="color:#1867db/">Position & Responsibility</h2>
-Leader of SKKU Math Club, MIMIC, February 2022 - February 2024
-
-<h2 style="color:#1867db">Conferences / School</h2>
+<h2 style="color:#1867db">Conferences & School (Attended)</h2>
+- 10-10 Summer School on Mathematics of Deep Learning and AI, SNU, August 7 - 8, 2023
 - International Conference on Differential Geometry and its Applications, KIAS, June 26 - 30, 2023
 - International Conference on Einstein and Harmonic Manifolds, SKKU, June 19 - 22
 - 2023 KMS Spring Meeting, KMS, April 27 - 29, 2023
-- 18th KIAS Geometry Win/ter School, KIAS, February 2023
+- 18th KIAS Geometry Winter School, KIAS, February 2023
 - Data Analysis Program Based on Industrial Mathematics, NIMS, August 16 - 18, 2022
 
-<h2 style="color:#1867db">Tutoring</h2>
-- Non-Euclidean Geometry, SKKU, September 2023 - December 2023
+<h2 style="color:#1867db">Teaching Experiences</h2>
+- Introduction to Geometry, SKKU, September 2023 - December 2023
 - Differential Geometry I, SKKU, March - June 2023
 - Abstract Algebra I, SKKU, June 2022 - August 2022
 - Calculus I & II, SKKU, 2021
+
+<h2 style="color:#1867db">Position & Responsibility</h2>
+Leader of SKKU Math Club, MIMIC, February 2022 - February 2024
