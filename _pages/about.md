@@ -22,7 +22,7 @@ I am a senior undergraduate student in Department of Mathematics at Sungkyunkwan
 
 #### Mathematical Physics
 - Gauge theory
-- Penrose inequlaity
+- Topological Quantum Field Theory
 
 ### Relevant Coursework
 - Differential Geometry, Riemannian Geometry
