@@ -64,7 +64,7 @@ Top 30% Academic Scholarship, February 2022 - June 2022
 - $2000, August 2023
 
 ##### National Science and Engineering Scholarship, 
-Ministry of Science and ICT (Korea), March 2022 - December 2023
+Ministry of Science and ICT (Korea), March 2022 - Feburary 2024
 
 ##### University Students Contest of Mathematics
 Silver Medal($2^{\text{nd}}$ place), December 2022
