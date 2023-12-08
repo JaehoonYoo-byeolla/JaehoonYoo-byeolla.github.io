@@ -18,7 +18,7 @@ I am a senior undergraduate student in Department of Mathematics at Sungkyunkwan
 
 #### Differential Geometry
 - Geometric Analysis
-- Minimal Surface of Schwarzschild submanifolds
+<!-- - Minimal Surface of Schwarzschild submanifolds -->
 
 #### Mathematical Physics
 - Gauge theory
@@ -41,6 +41,7 @@ under the supervision of/ professor Seungwon Kim<br>
 - The Number of Genus in The Turaev Surface and Seifert Surface of Positive Knots
 - Khovanov Homology
 - Slice-Ribbon Conjecture
+- Chern-Lashof Theorem
 
 <h2 style="color:#1867db">Undergraduate Talk(in Korean)</h2>
 
