@@ -1,8 +1,17 @@
 ---
 permalink: /about/
-title: "About"
+# title: "About"
+layout: splash
+# author_profile: true
 ---
+Hello! Thank you for visiting this homepage. 
+# About me
+In Fall 2024, I will be a first year Ph.d student in mathematics at Indina University Bloomington.
+Previously, I completed my bachelor's degree at Sungkyunkwan University, Suwon,
+advised by Seungwon Kim.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Reaserch Interest
+Low-dimensional Topology & Knot theory, especially 4-dimensional topology.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Contact
+Contact : jae h yoo (at) iu dot edu
