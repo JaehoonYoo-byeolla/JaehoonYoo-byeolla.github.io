@@ -13,5 +13,7 @@ advised by Seungwon Kim.
 # Reaserch Interest
 Low-dimensional Topology & Knot theory, especially 4-dimensional topology.
 
+# Publications
+[Publications](https://jaehoonyoo-byeolla.github.io/publications/)
 # Contact
 Contact : jae h yoo (at) iu dot edu
