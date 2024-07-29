@@ -7,6 +7,7 @@ layout: splash
 Hello! Thank you for visiting this homepage. 
 # About me
 In Fall 2024, I will be a first year Ph.d student in mathematics at Indina University Bloomington.
+
 Previously, I completed my bachelor's degree at Sungkyunkwan University, Suwon,
 advised by Seungwon Kim.
 
